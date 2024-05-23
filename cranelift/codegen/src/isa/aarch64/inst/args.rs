@@ -187,7 +187,7 @@ pub enum Cond {
     Le = 13,
     /// Always executed.
     Al = 14,
-    /// Always executed.
+    /// Never executed.
     Nv = 15,
 }
 
